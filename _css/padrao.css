@@ -1,0 +1,29 @@
+/* Formatação de fonte externa*/
+@font-face {
+	font-family: Caesar;
+	src: url(../_fonts/caesar_quimera.ttf);
+}
+
+/* Formatação para aplicação dentro do proprio CSS*/
+@charset "UTF-8";
+
+/* fim proprio CSS*/
+
+/* Formatação do BODY, corpo geral do site */
+body{
+	background-color: rgba(0, 0, 0, 0.500);
+	background-image: url(../_img/background_002.png);
+	background-position: center;
+	background-repeat: repeat-x;
+	font-family: 'Share Tech Mono';
+	font-size: 14pt;
+}
+
+h1 {
+	font-family: Caesar;
+	font-size: 80pt;
+	text-align: center;
+}
+
+/* fim geral do site*/
+

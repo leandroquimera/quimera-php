@@ -1,3 +1,5 @@
+<?php require_once"sessions.php"; ?>
+
 <!doctype html>
 <html lang="pt-br">
   <head>

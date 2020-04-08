@@ -4,14 +4,13 @@
 	src: url(../_fonts/caesar_quimera.ttf);
 }
 
-/* Formatação para aplicação dentro do proprio CSS*/
+/* Formatação dos caracteres do proprio CSS*/
 @charset "UTF-8";
 
-/* fim proprio CSS*/
 
 /* Formatação do BODY, corpo geral do site */
 body{
-	background-color: rgba(0, 0, 0, 0.500);
+	background-color: rgba(0, 0, 0, 0);
 	background-image: url(../_img/background_002.png);
 	background-position: center;
 	background-repeat: repeat-x;
@@ -21,7 +20,7 @@ body{
 
 h1 {
 	font-family: Caesar;
-	font-size: 80pt;
+	font-size: 120pt;
 	text-align: center;
 }
 
